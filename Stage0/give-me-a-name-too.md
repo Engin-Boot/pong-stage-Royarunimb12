@@ -23,6 +23,7 @@ This module explains all changes that happen in User Interface
   Then the paddle position is updated in the User Interface.
   
 ### Scenario: the UI is updated for the Score Board
+
 Given the game is started and the system conditions are working fine
 
 When the ball collides with the left wall or right wall
