@@ -24,11 +24,9 @@ This module explains all changes that happen in User Interface
   
 ### Scenario: the UI is updated for the Score Board
 Given the game is started and the system conditions are working fine
- 
+
 When the ball collides with the left wall or right wall
 
 Then The Score Board is updated based on the player who scored.
 
  User Interface Score system is also updated.
-
-
