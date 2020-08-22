@@ -12,7 +12,7 @@ This module explains all changes that happen in User Interface
 
   When the ball position moves via the move function
 
-  Then the ball position in the User Interface is updated
+  Then the ball position in the User Interface is updated.
 
 ### Scenario: User Interface is updated for paddle position
 
@@ -20,7 +20,7 @@ This module explains all changes that happen in User Interface
 
   When the paddle position moves via  move function
 
-  Then the paddle position is updated in the User Interface
+  Then the paddle position is updated in the User Interface.
   
 ### Scenario: User Interface is updated for Score Board
 
@@ -30,6 +30,6 @@ This module explains all changes that happen in User Interface
 
   Then the opposite side player scores a point, the Score Board is updated 
   
-  and the User Interface Score system is also updated
+  and the User Interface Score system is also updated.
 
 
