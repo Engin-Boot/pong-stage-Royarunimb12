@@ -1,17 +1,17 @@
-# UI updation
+# User Inerface updation
 
 ## Feature
 
-This module explains all changes that happen in UI
+This module explains all changes that happen in User Interface
 
 ## Acceptance Criteria
 
-### Scenario: UI is updated for ball position
+### Scenario: User Interface is updated for ball position
 
   Given the game has started and the system conditions are working fine
 
   When the ball position moves via the move function
 
-  Then the ball position in the UI is updated
+  Then the ball position in the User Interface is updated
 
 ### -add-scenario-if-needed
