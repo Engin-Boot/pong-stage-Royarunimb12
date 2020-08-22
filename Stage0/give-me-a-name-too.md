@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module explains all changes that happen on the UI based on logic of the backend of the game process
+This module explains all changes that happen in UI
 
 ## Acceptance Criteria
 
