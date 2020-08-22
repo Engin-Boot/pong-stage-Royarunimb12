@@ -39,5 +39,3 @@ Then The Score Board is updated based on the player who scored.
  When the game loads
  
  Then Display Main menu
- 
- 
