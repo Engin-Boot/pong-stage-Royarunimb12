@@ -1,17 +1,17 @@
-# -give-this-module-a-name
+# UI updation
 
 ## Feature
 
-What part of the game does this module deliver?
+This module explains all changes that happen on the UI based on logic of the backend of the game process
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: UI is updated for ball position
 
-  Given -give-initial-values-and-conditions
+  Given the game has started and the system conditions are working fine
 
-  When -event-happens
+  When the ball position moves via the move function
 
-  Then -module-does-this
+  Then the ball position in the UI is updated
 
 ### -add-scenario-if-needed
