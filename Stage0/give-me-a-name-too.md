@@ -1,4 +1,4 @@
-# User Inerface updation
+# User Interface updation
 
 ## Feature
 
@@ -14,4 +14,10 @@ This module explains all changes that happen in User Interface
 
   Then the ball position in the User Interface is updated
 
-### -add-scenario-if-needed
+### Scenario: User Interface is updated for paddle position
+
+  Given the game is started and the system conditions are working fine
+
+  When the paddle position moves via  move function
+
+  Then the paddle position is updated in the User Interface
