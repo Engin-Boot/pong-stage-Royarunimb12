@@ -42,4 +42,4 @@ Then the main menu is displayed in User Interface
 
 Given the main menu is displayed
 When the play button is displayed
-Then ball, paddle and initial score initialises and get rendered
+Then ball, paddle and initial score initializes and get rendered
