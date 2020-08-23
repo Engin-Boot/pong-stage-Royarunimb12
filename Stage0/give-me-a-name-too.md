@@ -43,3 +43,9 @@ Then the main menu is displayed in User Interface
 Given the main menu is displayed
 When the play button is displayed
 Then ball, paddle and initial score initializes and get rendered
+
+### Scenario:On winning the winner is displayed
+
+Given the game has started and the system conditions are working fine
+When any player scores the upper limit of scores
+Then he is displayed as winner
