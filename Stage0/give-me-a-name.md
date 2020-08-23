@@ -1,8 +1,8 @@
-# -give-this-module-a-name
+# Game Rules
 
 ## Feature
 
-What part of the game does this module deliver?
+This module specifies the protocols that determine the game
 
 ## Acceptance Criteria
 
