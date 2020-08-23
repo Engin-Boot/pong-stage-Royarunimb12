@@ -36,4 +36,4 @@ Then The Score Board is updated based on the player who scored.
 
 Given the game is loading and the system conditions are working fine
 When the game loads
-Then the main menu is dispayed in User Interface
+Then the main menu is displayed in User Interface
