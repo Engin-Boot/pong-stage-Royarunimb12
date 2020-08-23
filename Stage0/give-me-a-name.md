@@ -6,12 +6,12 @@ This module specifies the protocols that determine the game
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: a point
 
-  Given -give-initial-values-and-conditions
+Given the game is started and the system conditions are working fine
 
-  When -event-happens
+When the paddle moves in a direction other than ball
 
-  Then -module-does-this
+Then the ball collides with the wall and a point is scored
 
 ### -add-scenario-if-needed
