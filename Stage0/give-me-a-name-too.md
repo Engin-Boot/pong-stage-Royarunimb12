@@ -35,17 +35,23 @@ Then The Score Board is updated based on the player who scored.
 ### Scenario: the main menu is displayed when game loads
 
 Given the game is loading and the system conditions are working fine
+
 When the game loads
+
 Then the main menu is displayed in User Interface
 
 ### Scenario:On pressing play button, game elements get drawn
 
 Given the main menu is displayed
+
 When the play button is displayed
+
 Then ball, paddle and initial score initializes and get rendered
 
 ### Scenario:On winning the winner is displayed
 
 Given the game has started and the system conditions are working fine
+
 When any player scores the upper limit of scores
+
 Then he is displayed as winner
