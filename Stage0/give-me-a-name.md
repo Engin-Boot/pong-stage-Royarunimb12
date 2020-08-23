@@ -21,3 +21,12 @@ Given the game has started and the system conditions are working fine
 When in final lap, if any player hits the opposite wall
 
 Then that player is declared as winner
+
+### Scenario: the ball hits on the paddle
+
+Given the game has started and the system conditions are working fine
+
+When the ball hits the paddle
+
+Then the ball moves in the opposite direction of the paddle
+towards opponent player
