@@ -37,3 +37,9 @@ Then The Score Board is updated based on the player who scored.
 Given the game is loading and the system conditions are working fine
 When the game loads
 Then the main menu is displayed in User Interface
+
+### Scenario:On pressing play button, game elements get drawn
+
+Given the main menu is displayed
+When the play button is displayed
+Then ball, paddle and initial score initialises and get rendered
