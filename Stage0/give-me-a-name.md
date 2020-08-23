@@ -30,3 +30,12 @@ When the ball hits the paddle
 
 Then the ball moves in the opposite direction of the paddle
 towards opponent player
+
+### Scenario: the ball hits the wall
+
+Given the game has started and the system conditions are working fine
+
+When the ball hits the wall
+
+then the player's score is  incremented and Score board
+is updated
