@@ -6,7 +6,7 @@ This module specifies the protocols that determine the game
 
 ## Acceptance Criteria
 
-### Scenario: a point
+### Scenario: a point is scored
 
 Given the game is started and the system conditions are working fine
 
@@ -18,6 +18,6 @@ Then the ball collides with the wall and a point is scored
 
 Given the game has started and the system conditions are working fine
 
-When in final lap, any player hits the opposite wall
+When in final lap, if any player hits the opposite wall
 
-Then that player wins
+Then that player is declared as winner
