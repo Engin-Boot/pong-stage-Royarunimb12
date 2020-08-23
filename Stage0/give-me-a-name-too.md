@@ -32,7 +32,8 @@ Then The Score Board is updated based on the player who scored.
 
  User Interface Score system is also updated.
 
-### Scenario: the main menu is displayed when game loads
+### Scenario: the main menu is displayed when game loads 
+
  Given the game is loading and the system conditions are working fine
  When the game loads
  Then the main menu is dispayed in User Interface
