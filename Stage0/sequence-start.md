@@ -2,12 +2,22 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+When the game is loaded
+Main menu is dislayed ---> The players choose the board color and parameters
+of the board ---> The game is started and players  play according to the game rule module
+
+
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+The players play and according to game rule module
+and the ball is hit by placing the paddle in the direction of the ball
+such  that the ball cannot collide with the walls.
+
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+The layers play according to the game rule module and hit the
+ball with the paddle. If the ball hits the wall
+then a point is scored.
+The player to reach the upper limit of points wins the game.
