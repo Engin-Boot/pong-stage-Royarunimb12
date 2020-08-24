@@ -3,7 +3,7 @@
 ## Startup Sequence
 
 When the game is loaded
-Main menu is dislayed.The players choose the board color and parameters
+Main menu is displayed.The players choose the board color and parameters
 of the board.
 The game is started and players play according to the game rule module
 
