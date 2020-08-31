@@ -4,6 +4,7 @@
 
 When the game is loaded Main menu is displayed.
 The players choose the board color and parameters of the board.
+The settings chosen are translated into the User Interface.
 The game is started and players play according to the game rule module
 
 ## Movement Initiation
@@ -11,6 +12,7 @@ The game is started and players play according to the game rule module
 The players play and according to game rule module
 and the ball is hit by placing the paddle in the direction of the ball
 such  that the ball cannot collide with the walls.
+The speed of the ball accelerates with the passage of time.
 
 ## One score
 
