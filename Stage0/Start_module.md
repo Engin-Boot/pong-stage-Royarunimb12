@@ -24,7 +24,4 @@ When the game is loaded and the players select their preferences
 
 Then the player settings are translated into the User Interface
 and all specifications related to paddle speed, board dimensions
-are shown in the game
-
-
-
+are shown in the game.
