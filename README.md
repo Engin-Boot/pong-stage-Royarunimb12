@@ -11,7 +11,6 @@ This game is going to receive a lot of feature-requests.
 It must be possible for a team of three or more developers
 to work simultaneously on new features.
 
-
 ## Stages
 
 Think about the problem in stages. Each stage is in its individual folder.
